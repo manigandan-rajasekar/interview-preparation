@@ -1,4 +1,4 @@
 # interview-preparation
 Interview Preparation
-1. Amazon
-2. Quikr
+1. HackerRank
+2. GeeksForGeeks
